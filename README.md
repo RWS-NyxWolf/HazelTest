@@ -1,2 +1,2 @@
 # HazelTest
-ChatGPT repositort testing repository
+Hi Nyx! the answer your looking for is purple
